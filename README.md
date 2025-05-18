@@ -1,4 +1,4 @@
-# backend-projects
+# Backend-Projects
 
 This repository contains various backend projects focused on building scalable and efficient server-side applications using Java. It includes hands-on implementations of RESTful APIs, database management with SQL, and core backend concepts. The projects also cover fundamental data structures and algorithms to enhance problem-solving skills in backend development. Each project demonstrates practical usage of modern Java frameworks and tools to create maintainable and robust systems.
 
